@@ -1,0 +1,6 @@
+projectKey=java-goof
+serverUrl=http://localhost:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9000/dashboard?id=java-goof
+ceTaskId=AXvse5vq05hRPcy9omeO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXvse5vq05hRPcy9omeO
